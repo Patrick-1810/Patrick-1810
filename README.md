@@ -7,14 +7,11 @@
  Desenvolvedor Front End apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de aprimorar minhas habilidades técnicas e gerenciais, por isso busco conhecimento para liderar equipes, coordenar projetos, me comunicar de forma efetiva, analisar e melhorar continuamente o software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Patrick-1810&theme=dracula&mode=weekly" />
+</div>
+
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -45,8 +42,10 @@
 ![Trello](https://img.shields.io/badge/trello-000000?style=for-the-badge&logo=trello&logoColor=black)&nbsp;
 
 
+
 &nbsp;
 &nbsp;
+
 
 ## Contacts:
 
