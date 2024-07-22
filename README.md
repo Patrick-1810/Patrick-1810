@@ -7,7 +7,7 @@
  Desenvolvedor Front End apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de aprimorar minhas habilidades técnicas e gerenciais, por isso busco conhecimento para liderar equipes, coordenar projetos, me comunicar de forma efetiva, analisar e melhorar continuamente o software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Patrick-1810&theme=radical&hide_border=falso&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Patrick-1810&theme=dracula&hide_border=&mode=weekly)](https://git.io/streak-stats)
 </div>
  &nbsp;
  &nbsp;
