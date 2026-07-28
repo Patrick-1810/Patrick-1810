@@ -4,7 +4,7 @@ Olá, eu sou Patrick Prestes 👋
 
 <p align="center">
 
-🎓 Computer Science Student • 💻 Full Stack Developer • 🚀 Software Engineer in Progress
+  🎓 Computer Science Student • 💻 Full Stack Developer • 🚀 Software Engineer in Progress
 
 </p>
 
@@ -65,10 +65,6 @@ Atualmente estou aprofundando meus conhecimentos em Arquitetura de Software, Bac
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma">
 
 </p>
 
