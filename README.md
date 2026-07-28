@@ -1,60 +1,120 @@
+<h1 align="center">
+Olá, eu sou Patrick Prestes 👋
+</h1>
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="./assets/meBanner.png" />
-&nbsp;&nbsp;&nbsp;
+<p align="center">
 
+🎓 Computer Science Student • 💻 Full Stack Developer • 🚀 Software Engineer in Progress
 
-<p align="center"> 
- Desenvolvedor Front End apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de aprimorar minhas habilidades técnicas e gerenciais, por isso busco conhecimento para liderar equipes, coordenar projetos, me comunicar de forma efetiva, analisar e melhorar continuamente o software, integrando tudo isso com os fundamentos do desenvolvimento ágil.</p>&nbsp;
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-1810&show_icons=true&theme=tokyonight&locale=pt-br" style="width: 48%;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-1810&layout=compact&theme=tokyonight" style="width: 48%;"/>
-</div>
- &nbsp;
- &nbsp;
+<p align="center">
 
-## My Skills
+Construindo aplicações modernas, APIs escaláveis e soluções de software com foco em qualidade, arquitetura e boas práticas de desenvolvimento.
 
-#### Main Stack:
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<p align="center">
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
-#### Studying in this moment:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whites)&nbsp;
-![Banco de Dados](https://img.shields.io/badge/bancodedados-000000?style=for-the-badge&logo=bancodedados&logoColor=white)&nbsp;
-
-
-#### Workstation Tools:
-
-![Intellij](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij&logoColor=black)&nbsp;
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/trello-000000?style=for-the-badge&logo=trello&logoColor=black)&nbsp;
-
-
-
-&nbsp;
-&nbsp;
-
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/patrick_aprestes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://patrickprestes-developer-amber.vercel.app">
+<img src="https://img.shields.io/badge/🌐-Portfolio-4F46E5?style=for-the-badge">
 </a>
-<a href = "mailto:contato.patrickprestes977@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/patrick-azambuja-prestes-839287279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
- 
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0007ff&height=120&section=footer"/>
+<a href="https://github.com/Patrick-1810">
+<img src="https://img.shields.io/badge/GitHub-Patrick--1810-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/patrick-azambuja-prestes-839287279">
+<img src="https://img.shields.io/badge/LinkedIn-Patrick%20Prestes-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:contato.patrickprestes977@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 🚀 Sobre mim
+
+Sou estudante de Ciência da Computação e desenvolvedor Full Stack apaixonado por transformar ideias em software.
+
+Tenho experiência no desenvolvimento de aplicações web modernas, APIs REST, arquitetura de software e bancos de dados relacionais utilizando JavaScript, TypeScript, Python, React e Node.js.
+
+Atualmente estou aprofundando meus conhecimentos em Arquitetura de Software, Backend, Cloud Computing e Microsserviços, com o objetivo de atuar como **Software Engineer**, desenvolvendo produtos escaláveis e de alto impacto.
+
+---
+
+# 💻 Tecnologias
+
+### Front-end
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,tailwind,vite"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi"/>
+</p>
+
+### Banco de Dados
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma">
+
+</p>
+
+### Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman"/>
+</p>
+
+### Atualmente estudando
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,kubernetes"/>
+</p>
+
+---
+# 📈 Contribuições
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Patrick-1810&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Objetivos
+
+- 🚀 Evoluir continuamente como Software Engineer.
+- 💻 Desenvolver aplicações escaláveis e de alto impacto.
+- ☁️ Aprofundar conhecimentos em Cloud Computing e Microsserviços.
+- 🤝 Contribuir para projetos inovadores e equipes de alta performance.
+- 📚 Aprender algo novo todos os dias.
+
+---
+
+# 💡 Curiosidades
+
+- 📚 Estou sempre aprendendo novas tecnologias.
+- 💙 Gosto de transformar ideias em produtos reais.
+- ⚙️ Tenho interesse por Arquitetura de Software e Desenvolvimento Backend.
+- 🌎 Meu objetivo é trabalhar em projetos utilizados por milhares de pessoas.
+
+---
+
+<h5 align="center">
+
+"Code is not just syntax. It's a way to solve real problems."
+
+</h5>
